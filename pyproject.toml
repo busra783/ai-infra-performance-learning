@@ -5,3 +5,4 @@ description = "AI Infrastructure Performance Engineer Learning Track - GPU optim
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# guard against empty input
